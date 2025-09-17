@@ -1,16 +1,32 @@
-## Hi there 👋
+Aqui está um modelo de README simples e bem organizado para o seu GitHub, pensado para um estudante do ensino médio no último ano, que está em processo de qualificação com Python:
 
-<!--
-**Gus0098/Gus0098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+  👋 Olá,eu sou Gustavo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante do último ano do ensino médio
+💻 Atualmente aprendendo **Python**
+🚀 Interessado em programação, tecnologia e desenvolvimento de projetos
+
+---
+
+🔧 Habilidades em desenvolvimento
+
+* 📌 **Python** (curso em andamento)
+* 💡 Lógica de programação
+* 🔍 Resolução de problemas
+
+---
+
+📚 Objetivos
+
+* Aprimorar minhas habilidades em Python
+* Explorar outras linguagens de programação no futuro
+* Criar projetos práticos para aplicar meus conhecimentos
+
+---
+
+
+
+* GitHub: [Gus00980](https://github.com/seu-usuario)
+* E-mail: [gustavo.ferreira0098@gmail.com]
